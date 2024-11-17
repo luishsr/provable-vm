@@ -1,0 +1,9 @@
+#provable 1.0
+PUSH 10
+PUSH 20
+ADD
+STORE 0
+LOAD 0
+PUSH 5
+ADD
+HALT
