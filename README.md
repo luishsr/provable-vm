@@ -54,6 +54,10 @@ Contributions are welcome! Please follow the steps below:
 4. Push the branch: `git push origin feature-branch-name`
 5. Submit a pull request.
 
+## Credits
+This project was created and maintained by [Luis Soares](https://github.com/luishsr). 
+Contributions are welcome!
+
 # License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
